@@ -1,4 +1,4 @@
----
+rruu---
 title: Main installation guide
 weight: -90
 hide:
